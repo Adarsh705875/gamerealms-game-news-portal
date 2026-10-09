@@ -8,7 +8,7 @@
 ![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-### [🚀 **Live Demo**](https://adarsh705875.github.io/gamerealms-gaming-website/)
+### [🚀 **Live Demo**]( https://adarsh705875.github.io/gamerealms-game-news-portal/)
 
 </div>
 
